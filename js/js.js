@@ -26,7 +26,7 @@ function multiplyObjects(obj) {
 
 for(let key in salaries) {
     console.log(salaries[key])
-}
+}d
 
 multiplyObjects(salaries);
 
